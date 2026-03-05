@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+}
+
+.navbar {
+  background: #222;
+  padding: 10px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.container {
+  margin: 30px;
+}
+
+.mainpage {
+  text-align: center;
+}
