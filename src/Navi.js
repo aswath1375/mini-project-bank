@@ -44,9 +44,9 @@ function Navi() {
         <li><Link to="/alldata">All Data</Link></li>
         {/* <li><Link to="/history">History</Link></li> */}
         <li>
-          // <button onClick={handleLogout} className="logout-btn">
-          //   Logout
-          // </button>
+          <button onClick={handleLogout} className="logout-btn">
+            Logout
+          </button>
         </li>
       </ul>
     </nav>
@@ -54,4 +54,5 @@ function Navi() {
 }
 
 export default Navi;
+
 
